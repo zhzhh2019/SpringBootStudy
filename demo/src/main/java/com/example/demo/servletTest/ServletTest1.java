@@ -1,4 +1,4 @@
-package com.example.demo.ServletTest;
+package com.example.demo.servletTest;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
